@@ -1,0 +1,38 @@
+# 모든 텍스트 파일은 OS 맞춰 자동 변환
+* text=auto
+
+# 소스코드 파일은 LF 강제 (운영체제 상관없이 동일하게 유지됨)
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.java text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+
+# Windows 실행 파일/바이너리 → 변환하지 않음
+*.exe binary
+*.dll binary
+*.lib binary
+
+# 이미지/미디어 파일 → 변환하지 않음
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mp4 binary
+*.mp3 binary
+*.wav binary
+
+# 압축 파일 → 변환하지 않음
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+
+# Markdown, 텍스트, 문서 파일 → 자동 변환
+*.md text
+*.txt text
+*.csv text
