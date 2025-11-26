@@ -44,13 +44,14 @@
 ---
 
 ## 📝 줄거리 요약  
-화성 채굴 기지 **레드스핀**에서 연구관 **리아**는 광산 깊숙한 곳에서 반복되는 **암호화 신호**를 포착한다.  
+화성 채굴 기지 **레드스핀**에서 연구관 **리아**는 광산 깊숙한 곳에서 반복되는 암호화 신호를 포착한다.  
 그러나 본부와 위원회는 이 사실을 은폐하려 하고, 데이터는 검열되고 로그는 조작된다.  
-도시는 점점 **정보 왜곡, 검열, 부정선거**의 소용돌이에 빠지며, 리아는 진실을 밝히거나 침묵 속에서 살아가야 하는 기로에 선다.
+도시는 점점 정보 왜곡, 검열, 부정 선거의 소용돌이에 빠지며, 리아는 진실을 밝히거나 침묵 속에서 살아가야 하는 기로에 선다.
 
-At Mars mining base **Redspin**, researcher **Lia** captures repeated **encryption signals ** deep in the mine.  
-But the headquarters and the committee try to cover this up, the data is censored and the logs are manipulated.  
-The city increasingly falls into a whirlwind of **information distortion, censorship and rigged elections**, and Leah is at a crossroads where she has to reveal the truth or live in silence.
+At Mars mining base Redspin, researcher Lia captures repeated **encrypted signals** deep in the mine.  
+But the headquarters and the committee try to cover this up; the data is censored and the logs are manipulated.  
+The city increasingly falls into a whirlwind of information distortion, censorship, and rigged elections, and Lia stands at a crossroads where she must reveal the truth or live in silence.
+
 ---
 
 ## 🛠️ 기술적 요소  
